@@ -1,1 +1,16 @@
+# Local data and logs
+helios2tof_data/
 *.png
+data_batches/
+batch_data.ps1
+
+# Previous large files
+helios2tof_data.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
